@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Environment Variables
+.env
+
+# Logs
+logs
+*.log
+
+# Flask
+instance/
+.werkzeug/
+
+# React
+build/
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+*.bat
+*.cmd
+$RECYCLE.BIN/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Miscellaneous
+*.swp
+*.swo
